@@ -103,16 +103,16 @@ namespace AbstractFactory
                 Console.Write("Your input: ");
                 var input = Console.ReadKey().Key;
                 Console.Clear();
+
+                EnemyCamp camp = null;
                 
                 switch (input)
                 {
                     case ConsoleKey.D1:
-                        var enemyCamp = new EnemyCamp(forestCampFactory);
-                        LogCampInfo(enemyCamp);
+                        camp = new EnemyCamp(forestCampFactory);
                         break;
                     case ConsoleKey.D2:
-                        enemyCamp = new EnemyCamp(volcanoCampFactory);
-                        LogCampInfo(enemyCamp);
+                        camp = new EnemyCamp(volcanoCampFactory);
                         break;
                     case ConsoleKey.D0:
                         retry = false;
@@ -121,6 +121,8 @@ namespace AbstractFactory
                         Console.WriteLine("Invalid key, try again\n"); 
                         break;
                 }
+                
+                LogCampInfo(camp);
             }
         }
 
