@@ -1,0 +1,27 @@
+﻿Task 1:
+
+In "AbstractFactory\Exercise\<FirstnameLastName>\Task1" directory:
+- Create class for a new mob
+- Create classes for new items
+- Create a new mob factory that utilises classes above
+- Run a simulation from Program.cs
+- Push it to develop of DesignPattern repo (make sure you didn't make any changes under "Example" directory)
+
+---
+
+Task 2:
+
+In "AbstractFactory\Exercise\<FirstnameLastName>\Task2" directory:
+- Think of a new object that could be a part of EnemyCamp
+- Create necessary classes and add them where needed
+- Push it to develop of DesignPattern repo (make sure you didn't make any changes under "Example" directory)
+
+---
+
+Task 3 (bonus):
+
+In "AbstractFactory\Exercise\<FirstnameLastName>\Task3" directory:
+- Think of another use case for Abstract Factory pattern, then implement it (hint: UI is very common, but there are more cases)
+- Push it to develop of DesignPattern repo (make sure you didn't make any changes under "Example" directory)
+
+---
