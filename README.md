@@ -1,2 +1,2 @@
 # DesignPatternsTemp
-# Temporary repo for Design Pattern Initiative
+Temporary repo for Design Pattern Initiative
