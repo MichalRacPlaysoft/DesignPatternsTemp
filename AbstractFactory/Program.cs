@@ -10,8 +10,8 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            ExampleRegularInstantiation();
-            ExampleSimpleFactory();
+            //ExampleRegularInstantiation();
+            //ExampleSimpleFactory();
             ExampleAbstractFactory();
         }
         
@@ -84,7 +84,6 @@ namespace AbstractFactory
         {
             Console.Clear();
             Console.WriteLine($"AbstractFactory");
-
             
             // "to use in forest levels"
             var forestCampFactory = new WolfCampFactory();
@@ -112,7 +111,7 @@ namespace AbstractFactory
                         LogCampInfo(enemyCamp);
                         break;
                     case ConsoleKey.D2:
-                        enemyCamp = new EnemyCamp(forestCampFactory);
+                        enemyCamp = new EnemyCamp(volcanoCampFactory);
                         LogCampInfo(enemyCamp);
                         break;
                     case ConsoleKey.D0:
