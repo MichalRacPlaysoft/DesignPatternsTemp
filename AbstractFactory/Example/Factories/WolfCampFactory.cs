@@ -12,7 +12,7 @@ namespace AbstractFactory.Example.Factories
         public override Item CreateLootItem()
         {
             var rng = new Random();
-            return rng.Next() % 2 == 0 
+            return rng.Next(2) == 0 
                 ? new WolfFangs() 
                 : new WolfSkin();
         }

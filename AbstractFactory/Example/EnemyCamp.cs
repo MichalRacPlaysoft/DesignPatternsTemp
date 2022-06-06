@@ -10,6 +10,12 @@ namespace AbstractFactory.Example
         public Mob Mob { get; }
         public Item Item { get; }
 
+        public EnemyCamp(Mob argMob, Item argItem)
+        {
+            Mob = argMob;
+            Item = argItem;
+        }
+
         public EnemyCamp(AbstractCampFactory argCampFactory)
         {
             Mob = argCampFactory.CreateEnemyMob();
