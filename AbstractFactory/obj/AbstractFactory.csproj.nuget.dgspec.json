@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositiories\\_DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj": {}
+    "C:\\Repositiories\\_DesignPatterns\\DesignPatternsTemp\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\Repositiories\\_DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\Repositiories\\_DesignPatterns\\DesignPatternsTemp\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositiories\\_DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\Repositiories\\_DesignPatterns\\DesignPatternsTemp\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "C:\\Repositiories\\_DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+        "projectPath": "C:\\Repositiories\\_DesignPatterns\\DesignPatternsTemp\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\pc-102\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositiories\\_DesignPatterns\\DesignPatterns\\AbstractFactory\\obj\\",
+        "outputPath": "C:\\Repositiories\\_DesignPatterns\\DesignPatternsTemp\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc-102\\AppData\\Roaming\\NuGet\\NuGet.Config"

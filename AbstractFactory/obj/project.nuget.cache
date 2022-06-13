@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1zojSp4sLVNIbbi3iefyD7Ma25Wcy3ig2hPZ1oSxPwWDMVU4OApJs8dGvGVXncSjE8VJU0zes186fvvbXEvUAw==",
+  "dgSpecHash": "6S1TFo9PDj5KY+DY316S0F0XmwsRpUhB/lhZLey7v+sE5RW/u4J90wzhVBrNqpzio+Bm0uBiXkTwfkDokYAI/g==",
   "success": true,
-  "projectFilePath": "C:\\Repositiories\\_DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+  "projectFilePath": "C:\\Repositiories\\_DesignPatterns\\DesignPatternsTemp\\AbstractFactory\\AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
